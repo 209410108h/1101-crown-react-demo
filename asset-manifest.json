@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/209410108h/1101-crown-react-demo.git/static/css/main.2a75e818.chunk.css",
+    "main.js": "/209410108h/1101-crown-react-demo.git/static/js/main.8fa33cfe.chunk.js",
+    "main.js.map": "/209410108h/1101-crown-react-demo.git/static/js/main.8fa33cfe.chunk.js.map",
+    "runtime-main.js": "/209410108h/1101-crown-react-demo.git/static/js/runtime-main.22e5c432.js",
+    "runtime-main.js.map": "/209410108h/1101-crown-react-demo.git/static/js/runtime-main.22e5c432.js.map",
+    "static/js/2.fe0334d2.chunk.js": "/209410108h/1101-crown-react-demo.git/static/js/2.fe0334d2.chunk.js",
+    "static/js/2.fe0334d2.chunk.js.map": "/209410108h/1101-crown-react-demo.git/static/js/2.fe0334d2.chunk.js.map",
+    "static/js/3.18fb45c2.chunk.js": "/209410108h/1101-crown-react-demo.git/static/js/3.18fb45c2.chunk.js",
+    "static/js/3.18fb45c2.chunk.js.map": "/209410108h/1101-crown-react-demo.git/static/js/3.18fb45c2.chunk.js.map",
+    "index.html": "/209410108h/1101-crown-react-demo.git/index.html",
+    "static/css/main.2a75e818.chunk.css.map": "/209410108h/1101-crown-react-demo.git/static/css/main.2a75e818.chunk.css.map",
+    "static/js/2.fe0334d2.chunk.js.LICENSE.txt": "/209410108h/1101-crown-react-demo.git/static/js/2.fe0334d2.chunk.js.LICENSE.txt",
+    "static/media/crown.3a4e2b15.svg": "/209410108h/1101-crown-react-demo.git/static/media/crown.3a4e2b15.svg",
+    "static/media/logo.6ce24c58.svg": "/209410108h/1101-crown-react-demo.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22e5c432.js",
+    "static/js/2.fe0334d2.chunk.js",
+    "static/css/main.2a75e818.chunk.css",
+    "static/js/main.8fa33cfe.chunk.js"
+  ]
+}
